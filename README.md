@@ -36,6 +36,19 @@ Analyzed a large transactional dataset with a focus on data quality, cleaning, c
 
 ---
 
+### 📈 Business Data Analysis
+
+**Python · Pandas · Power BI**
+
+Two business analysis projects using Python and Power BI.
+
+**Key findings:**  
+Analyzed profitability across product categories · examined the relationship between discounts and profit · analyzed e-commerce return patterns across countries.
+
+[View project →](https://github.com/NadiiaSe/business-data-analysis)
+
+---
+
 ## Skills
 
 **Data Analysis:** SQL · Excel · Power BI · Python · Pandas
